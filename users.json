@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "username": "John1337",
+        "email": "john@gmail.com",
+        "phone": "121231-123-112",
+        "website": "john-doe.com",
+        "extension": "svg"
+    },
+    {
+        "id": 2,
+        "name": "Jamil Wheeler",
+        "username": "JamJam",
+        "email": "Jam@gmail.com",
+        "phone": "1512231-1313-5",
+        "website": "jamjam.com",
+        "extension": "svg"
+    },
+    {
+        "id": 3,
+        "name": "Raphael Stark",
+        "username": "StarkR",
+        "email": "stark@gmail.com",
+        "phone": "156621-113-332",
+        "website": "starkraphael.com",
+        "extension": "svg"
+    },
+    {
+        "id": 4,
+        "name": "Bradley Olson",
+        "username": "OlBrad",
+        "email": "olsonbrad@gmail.com",
+        "phone": "748231-263-242",
+        "website": "brad.com",
+        "extension": "svg"
+    },
+    {
+        "id": 5,
+        "name": "Matilda Cline",
+        "username": "ClineMatii",
+        "email": "mati_cline@gmail.com",
+        "phone": "556231-223-201",
+        "website": "mati-cline.tech",
+        "extension": "svg"
+    },
+    {
+        "id": 6,
+        "name": "Abraham Thomson",
+        "username": "Thomson_A",
+        "email": "abramson@gmail.com",
+        "phone": "221021-842-412",
+        "website": "abramson.com",
+        "extension": "svg"
+    },
+    {
+        "id": 7,
+        "name": "Daniela Doyle",
+        "username": "D_D",
+        "email": "doyledan@gmail.com",
+        "phone": "12511-112-590",
+        "website": "d-doyle.com",
+        "extension": "svg"
+    },
+    {
+        "id": 8,
+        "name": "Chelsea Martinez",
+        "username": "MartinezChelsea",
+        "email": "chelsea@gmail.com",
+        "phone": "2210331-712-812",
+        "website": "chelsea-martinez.com",
+        "extension": "svg"
+    },
+    {
+        "id": 9,
+        "name": "Aaron Carver",
+        "username": "Carron",
+        "email": "aaron_carver@gmail.com",
+        "phone": "123852-821-482",
+        "website": "carver.com",
+        "extension": "svg"
+    },
+    {
+        "id": 10,
+        "name": "Bruce Wayne",
+        "username": "batxd",
+        "email": "wayne@gmail.com",
+        "phone": "888888-888-888",
+        "website": "batman.com",
+        "extension": "svg"
+    }
+]
+
+
